@@ -1,0 +1,32 @@
+{
+  "name": "india-id-validator",
+  "version": "1.0.0",
+  "description": "Zero-dependency validators for Indian PAN, Aadhaar, IFSC, GSTIN, PIN code and mobile numbers",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "india",
+    "validator",
+    "validation",
+    "pan",
+    "aadhaar",
+    "verhoeff",
+    "ifsc",
+    "gstin",
+    "gst",
+    "pincode",
+    "mobile"
+  ],
+  "author": "Bharat",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
